@@ -1,4 +1,4 @@
 [wrap-git]
 url = https://github.com/mmmspatz/ORB_SLAM3.git
-revision = master
+revision = mspatz/wumbo
 depth = 1
